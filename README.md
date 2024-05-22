@@ -1,4 +1,4 @@
-# 🌤️ Aesthetic Weather Bot
+# 🌤️ Telegram Weather Bot
 
 Aesthetic Weather Bot is a visually appealing Telegram bot that provides detailed weather updates with beautiful graphics and animations. It offers customizable background themes, hourly and weekly forecasts, and notifications for weather alerts. You can even integrate it with smart home devices!
 
